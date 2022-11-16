@@ -24,6 +24,9 @@ THEN I am again presented with current and future conditions for that city
   ## Description
 a simple weather application that will display a 5 day forecast for any city searched.
 
+## Project Status
+Given the pace of the course production of this webpage has come to a hold and the end result is not provided.
+
 ## Link
 [Weather Application](https://mysonh.github.io/WeatherForecastApplication/)
 
