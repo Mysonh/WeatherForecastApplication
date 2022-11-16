@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+    
+.searchbar{
+padding:6px;
+margin-top: 8px;
+font-size:17px;
+border:none;
+float: left;
+}
+
+
+.flex-container{
+   display: flex;
+   gap:10px ;
+}
+.item{
+    flex-grow: 1;
+    height: 100px;
+    width: 100px;
+    border-color: black;
+    border-style: solid;
+
+}
+
+.item + .item{
+    margin: left 2%;
+}
